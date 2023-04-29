@@ -12,8 +12,8 @@ There are three main users who access the system
 
 -->FACULTY
 
---------------------------------------------------Prerequisites for Student Management System using Java---------------------------------------------
-
+##Prerequisites for Student Management System using Java
+                                               
 Basic knowledge of Java programming.
 
 Familiarity with Java Swing for creating GUI applications.
@@ -24,6 +24,6 @@ Understanding of JAR files and how they are used in Java projects.
 
 Understanding of database management and SQL database.
 
----------------------------------------------------------------------MY PROJECT-------------------------------------------------------------------------
+##MY PROJECT
 
 https://studentdatabasesystem2.on.drv.tw/HTML/WebPage.html
