@@ -24,6 +24,6 @@ Understanding of JAR files and how they are used in Java projects.
 
 Understanding of database management and SQL database.
 
--------------------------------MY PROJECT
+-------------------------------   MY PROJECT  -------------------------------------------------------
 
 https://studentdatabasesystem2.on.drv.tw/HTML/WebPage.html
